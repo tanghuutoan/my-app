@@ -4,7 +4,7 @@ MAINTAINER Toan Tang <thuutoan91@gmail.com>
 
 VOLUME /tmp
 
-ADD target/spring*.war app.war
+ADD target/my*.war app.war
 
 RUN bash -c 'touch /app.war'
 
