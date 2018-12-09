@@ -1,2 +1,2 @@
 # my-app
-demo test
+Spring boot web JPS example
